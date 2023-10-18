@@ -1,0 +1,8 @@
+prefix=/home/vilgiz/ilya_homework_ws/install
+
+Name: glass_ladder
+Description: Description of glass_ladder
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

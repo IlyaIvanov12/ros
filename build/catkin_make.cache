@@ -1,0 +1,2 @@
+glass_ladder
+-DCATKIN_DEVEL_PREFIX=/home/vilgiz/ilya_homework_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vilgiz/ilya_homework_ws/install -G Unix Makefiles
